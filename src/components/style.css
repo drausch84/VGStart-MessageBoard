@@ -1,0 +1,100 @@
+p{
+    font-family: monospace;
+}
+.home-page .banner{
+    background: black;
+}
+.navbar-brand{
+    font-family: monospace;
+    color: linear-gradient(silver, black) !important;
+    color: black !important;
+}
+
+.btn-outline-primary{
+    color: silver;
+    border-color: black;
+}
+.btn-outline-primary:active:hover, .btn-outline-primary:active:focus, .btn-outline-primary:active.focus, .btn-outline-primary.active:hover, .btn-outline-primary.active:focus, .btn-outline-primary.active.focus, .open>.btn-outline-primary.dropdown-toggle:hover, .open>.btn-outline-primary.dropdown-toggle:focus, .open>.btn-outline-primary.dropdown-toggle.focus {
+    color: silver;
+    background: #ff6666;
+    border-color: black;
+}
+.btn-outline-primary:active, .btn-outline-primary.active, .open>.btn-outline-primary.dropdown-toggle {
+    color: silver;
+    background: #ff6666;
+    border-color: black;
+}
+.author{
+    color: #ff6666;
+}
+
+h1{
+    font-family: "Source Sans Pro", sans-serif;
+}
+
+body {
+    font-family: source sans pro,sans-serif;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #ff6666;
+    background-color: ghostwhite;
+}
+
+.article-preview .preview-link p{
+    color: black;
+}
+
+.page-link {
+    position: relative;
+    float: left;
+    padding: .5rem .75rem;
+    margin-left: -1px;
+    color: #ff6666;
+    text-decoration: none;
+    background-color: #fff;
+    border: 1px solid black;
+}
+.page-item.active .page-link, .page-item.active .page-link:focus, .page-item.active .page-link:hover {
+    background:lightgray;
+    border-color:lightgray;
+    color: #ff6666;
+}
+.page-link:hover{
+    color:#ff6666;
+}
+a{
+    color:black;
+}
+.nav-pills.outline-active .nav-link.active{
+    color: black !important;
+    color: linear-gradient(silver,black) !important;
+    border-bottom: 2px solid #ff6666!important;
+    border-bottom: 2px solid #ff6666!important;
+}
+.btn-primary{
+    background:black;
+    color: white;
+    font-family:monospace;
+    border-color:black;
+}
+.btn-primary.active{
+    border-color:black;
+    color:black;
+}
+.btn-primary:hover{
+    background: silver;
+    color:black;
+    font-family:monospace;
+    border-color:black;
+}
+btn{
+    background:silver;
+}
+.logo-image{
+    height:250px;
+    width:250px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
